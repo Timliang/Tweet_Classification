@@ -1,0 +1,2 @@
+# Tweet_Classification
+In this project, we fully understand how Naive Bayes can be utilized to do classification to text analysis. We implemented Naive Bayes Classifier by ourself and used it to analyze the Tweets data from Twitter online social network. In order to improve the efficiency and accuracy, we tried different feature selection methods to do attribute reduction. Further more, we applied SVM (support vector machine) to make improvement based on simple Naive Bayes.
